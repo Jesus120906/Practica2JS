@@ -40,7 +40,7 @@ function ejercicio4() {
 
 function Abrir() {
 
-    window.open("https://www.google.com", "_blank");
+    window.open("https://www.google.com");
 }
 
 function Cerrar() {
